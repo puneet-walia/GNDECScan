@@ -1,0 +1,275 @@
+.android-large-2-child,
+.android-large-2-item {
+  position: absolute;
+  top: 650px;
+  left: 163px;
+  border-radius: 50%;
+  background-color: var(--color-red-200);
+  filter: blur(354px);
+  width: 273px;
+  height: 276px;
+}
+.android-large-2-item {
+  top: -115px;
+  left: -128px;
+  width: 291px;
+  height: 297px;
+}
+.android-large-2-inner {
+  position: absolute;
+  width: 116.39%;
+  top: -49px;
+  right: -11.94%;
+  left: -4.44%;
+  background-color: var(--color-red-100);
+  filter: blur(360px);
+  height: 870px;
+  opacity: 0.15;
+}
+.hi-sanmeet,
+.your-subjects {
+  position: absolute;
+  left: 32px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 226px;
+  height: 30px;
+}
+.hi-sanmeet {
+  top: 74px;
+  font-size: 33px;
+}
+.your-subjects {
+  top: 134px;
+  font-size: var(--font-size-8xl);
+}
+.java1 {
+  margin: 0;
+  padding-left: var(--padding-17xl);
+}
+.discrete,
+.elective,
+.iot,
+.java,
+.toc {
+  position: absolute;
+  top: 194px;
+  left: 32px;
+  font-size: var(--font-inherit);
+  font-weight: 600;
+  font-family: var(--font-inherit);
+  color: var(--color-black);
+  display: inline-block;
+  width: 162px;
+  height: 30px;
+}
+.discrete,
+.elective,
+.iot,
+.toc {
+  top: 284px;
+}
+.discrete,
+.elective,
+.toc {
+  top: 383px;
+}
+.elective,
+.toc {
+  top: 482px;
+}
+.elective {
+  top: 581px;
+}
+.scan-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-lightcoral);
+  width: 68px;
+  height: 27px;
+}
+.photo-camera-icon {
+  position: absolute;
+  top: 6px;
+  left: 46px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.scan1 {
+  position: absolute;
+  top: 4px;
+  left: 5px;
+  font-weight: 600;
+  display: inline-block;
+  width: 39px;
+  height: 14px;
+}
+.scan,
+.scan-child3,
+.scan2,
+.scan4,
+.scan6,
+.scan8 {
+  position: absolute;
+  top: 236px;
+  left: 49px;
+  width: 68px;
+  height: 27px;
+}
+.scan-child3,
+.scan2,
+.scan4,
+.scan6,
+.scan8 {
+  top: 434px;
+}
+.scan-child3,
+.scan4,
+.scan6,
+.scan8 {
+  top: 335px;
+}
+.scan-child3,
+.scan6,
+.scan8 {
+  top: 533px;
+}
+.scan-child3,
+.scan8 {
+  top: 632px;
+}
+.scan-child3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-lightcoral);
+  width: 79px;
+}
+.vector-icon {
+  position: absolute;
+  height: 62.96%;
+  width: 17.72%;
+  top: 18.52%;
+  right: 3.8%;
+  bottom: 18.52%;
+  left: 78.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.upload {
+  position: absolute;
+  top: 4px;
+  left: 5.81px;
+  font-weight: 600;
+  display: inline-block;
+  width: 65.06px;
+  height: 14px;
+}
+.scan-child4,
+.scan10 {
+  position: absolute;
+  top: 236px;
+  left: 136px;
+  width: 79px;
+  height: 27px;
+}
+.scan-child4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-lightcoral);
+}
+.document-icon {
+  position: absolute;
+  height: 81.48%;
+  width: 27.85%;
+  top: 7.41%;
+  right: 0;
+  bottom: 11.11%;
+  left: 72.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.output {
+  position: absolute;
+  height: 51.85%;
+  width: 82.35%;
+  top: 14.81%;
+  left: 7.35%;
+  font-weight: 600;
+  display: inline-block;
+}
+.scan11,
+.scan12,
+.scan13,
+.scan14,
+.scan15 {
+  position: absolute;
+  top: 236px;
+  left: 234px;
+  width: 79px;
+  height: 27px;
+  cursor: pointer;
+}
+.scan12,
+.scan13,
+.scan14,
+.scan15 {
+  top: 434px;
+}
+.scan13,
+.scan14,
+.scan15 {
+  top: 335px;
+}
+.scan14,
+.scan15 {
+  top: 533px;
+}
+.scan15 {
+  top: 631px;
+}
+.scan16,
+.scan17,
+.scan18,
+.scan19 {
+  position: absolute;
+  top: 434px;
+  left: 136px;
+  width: 79px;
+  height: 27px;
+}
+.scan17,
+.scan18,
+.scan19 {
+  top: 335px;
+}
+.scan18,
+.scan19 {
+  top: 533px;
+}
+.scan19 {
+  top: 632px;
+}
+.android-large-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-roboto-flex);
+}

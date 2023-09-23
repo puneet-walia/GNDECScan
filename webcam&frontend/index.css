@@ -1,0 +1,218 @@
+.login-child {
+  position: absolute;
+  width: 128.89%;
+  top: 0;
+  right: -24.44%;
+  left: -4.44%;
+  background-color: var(--color-white);
+  height: 905px;
+}
+.login-inner,
+.login-item {
+  position: absolute;
+  top: 297px;
+  left: 43px;
+  border-radius: 50%;
+  background-color: var(--color-pink);
+  filter: blur(354px);
+  width: 273px;
+  height: 276px;
+}
+.login-inner {
+  top: -138px;
+  left: -59px;
+  width: 171px;
+  height: 179px;
+}
+.rectangle-div {
+  position: absolute;
+  width: 116.39%;
+  top: -49px;
+  right: -11.94%;
+  left: -4.44%;
+  background-color: var(--color-red-100);
+  filter: blur(360px);
+  height: 870px;
+  opacity: 0.15;
+}
+.guru-nanak-dev,
+.guruu-nwnk-dyv {
+  position: absolute;
+  display: inline-block;
+  height: 79px;
+}
+.guruu-nwnk-dyv {
+  top: 58px;
+  left: 22px;
+  font-size: 25px;
+  font-family: var(--font-amrlipiheavy);
+  width: 236px;
+}
+.guru-nanak-dev {
+  top: 137px;
+  left: 20px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  font-family: var(--font-roboto-flex);
+  width: 319px;
+}
+.login-child1 {
+  position: absolute;
+  top: 225px;
+  left: 30px;
+  border-radius: 31px;
+  background-color: var(--color-white);
+  width: 299px;
+  height: 417px;
+}
+.login-child2,
+.login-child3 {
+  position: absolute;
+  top: 336px;
+  left: 59px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-silver);
+  width: 241px;
+  height: 50px;
+  mix-blend-mode: normal;
+}
+.login-child3 {
+  top: 420px;
+}
+.user-icon {
+  position: absolute;
+  top: calc(50% - 52px);
+  left: calc(50% - 114px);
+  width: 30px;
+  height: 32px;
+  object-fit: cover;
+}
+.incase-you-do,
+.username {
+  position: absolute;
+  display: inline-block;
+  opacity: 0.6;
+}
+.username {
+  top: 352px;
+  left: 84px;
+  text-align: center;
+  width: 118px;
+  height: 23px;
+}
+.incase-you-do {
+  top: 654px;
+  left: 22px;
+  width: 318px;
+  height: 37px;
+}
+.for-btech-mba {
+  margin: 0;
+}
+.for-btech-mba-container,
+.password {
+  position: absolute;
+  display: inline-block;
+  opacity: 0.6;
+}
+.for-btech-mba-container {
+  top: 698px;
+  left: 22px;
+  font-size: 10px;
+  width: 333px;
+  height: 37px;
+}
+.password {
+  top: 437px;
+  left: 84px;
+  text-align: center;
+  width: 118px;
+  height: 23px;
+}
+.gne-1-icon,
+.password-icon {
+  position: absolute;
+  top: 429px;
+  left: 63px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.gne-1-icon {
+  top: 36px;
+  left: 241px;
+  width: 98px;
+  height: 89px;
+}
+.login1 {
+  position: absolute;
+  top: 248px;
+  left: 122px;
+  font-size: 39px;
+  text-align: center;
+  display: inline-block;
+  width: 115px;
+  height: 42px;
+}
+.login-button1 {
+  position: relative;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.45);
+  width: 85px;
+  height: 25px;
+  mix-blend-mode: normal;
+}
+.login-button {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.login2 {
+  position: absolute;
+  height: 72%;
+  width: 80%;
+  top: 16%;
+  left: 10.59%;
+  display: inline-block;
+  opacity: 0.6;
+}
+.component-1 {
+  position: absolute;
+  top: 494px;
+  left: 215px;
+  width: 85px;
+  height: 25px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 14px;
+  color: var(--color-white);
+}
+.android-large-1,
+.login {
+  background-color: var(--color-white);
+  height: 800px;
+  overflow: hidden;
+}
+.login {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+}
+.android-large-1 {
+  position: relative;
+  width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

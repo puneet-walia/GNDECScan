@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  line-height: normal;
+  
+}
+
+.main{
+  width:10px;
+}
+
+.form{
+  justify-content: center;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-roboto-flex: "Roboto Flex";
+  --font-amrlipiheavy: AmrLipiHeavy;
+  --font-inherit: inherit;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-8xl: 27px;
+  --font-size-45xl: 64px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #262626;
+  --color-gray-200: #121212;
+  --color-gray-300: rgba(18, 18, 18, 0.12);
+  --color-black: #000;
+  --color-silver: rgba(185, 185, 185, 0.45);
+  --color-red-100: #ff0000;
+  --color-red-200: rgba(255, 0, 0, 0.39);
+  --color-pink: #ffc7c7;
+  --color-lightcoral: #ff9898;
+  --color-darkslategray-100: rgba(55, 55, 55, 0.45);
+  --color-darkslategray-200: rgba(71, 70, 70, 0.45);
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.19);
+
+  /* Paddings */
+  --padding-17xl: 36px;
+
+  /* Border radiuses */
+  --br-sm: 14px;
+  --br-9xs: 4px;
+  --br-13xl: 32px;
+  --br-lg: 18px;
+  --br-118xl: 137px;
+}
+
+#form{
+ 
+  margin-left: 20px; 
+}
+#logo{
+  height:100px;
+  
+}
+#logo1{
+  height:120px;
+  
+}

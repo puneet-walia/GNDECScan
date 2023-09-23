@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="global.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <style>
+    /* Custom styles for mobile view */
+    body {
+      background-color: #f8f9fa;
+    }
+
+    .container {
+      margin-top: 10vh;
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .form {
+      text-align: center;
+    }
+
+    .btn {
+      width: 100%;
+    }
+  </style>
+  <title>Login Page</title>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-10">
+        <div
+          style="width: 100%; height: 100%; color: black; font-size: 40px; font-family: AmrLipiHeavy; font-weight: 400; word-wrap: break-word">
+          ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਇੰਜਨੀਅਰਿੰਗ ਕਾਲਜ, ਲੁਧਿਆਣਾ
+
+        </div>
+
+      </div>
+      <div class="col">
+        <img src="gne.png" id="logo">
+      </div>
+    </div>
+
+
+<div class="row">
+  <div class="col">
+    <div
+      style="width: 100%; height: 100%; color: black; font-size: 30px; font-family: Roboto Flex; font-weight: 600; word-wrap: break-word"
+      class="my-2">Guru Nanak Dev Engineering College, Ludhiana</div>
+  </div>
+</div>
+
+    <form action="" class="form my-2 " id="dd">
+      <div class="mb-3">
+        <label for="fname" class="form-label">UserId</label>
+        <input type="text" class="form-control" id="fname" name="fname" placeholder="UserId">
+      </div>
+      <div class="mb-3">
+        <label for="pass" class="form-label">Password</label>
+        <input type="password" class="form-control" id="pass" name="lname" placeholder="Password">
+      </div>
+      <button type="button" class="btn-sm btn-primary" id="loginButton">Login</button>
+    </form>
+  </div>
+
+  <script>
+    document.getElementById("loginButton").addEventListener("click", function () {
+      // Get the username and password input values
+      var username = document.getElementById("fname").value;
+      var password = document.getElementById("pass").value;
+
+      // Perform authentication (you can replace this with your authentication logic)
+      if (username === "Rajat" && password === "123") {
+        // Authentication successful, navigate to the next page
+        window.location.href = "AndroidLarge2.html";
+      } else {
+        // Authentication failed, show an error message or handle it as needed
+        alert("Invalid username or password. Please try again.");
+      }
+    });
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

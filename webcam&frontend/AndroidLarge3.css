@@ -1,0 +1,48 @@
+.android-large-3-child,
+.android-large-3-item {
+  position: absolute;
+  top: 650px;
+  left: 163px;
+  border-radius: 50%;
+  background-color: var(--color-red-200);
+  filter: blur(354px);
+  width: 273px;
+  height: 276px;
+}
+.android-large-3-item {
+  top: -115px;
+  left: -128px;
+  width: 291px;
+  height: 297px;
+}
+.android-large-3-inner {
+  position: absolute;
+  width: 116.39%;
+  top: -49px;
+  right: -11.94%;
+  left: -4.44%;
+  background-color: var(--color-red-100);
+  filter: blur(360px);
+  height: 870px;
+  opacity: 0.15;
+}
+.this-screen-will {
+  position: absolute;
+  top: 333px;
+  left: 82px;
+  font-weight: 600;
+  display: inline-block;
+  width: 196px;
+  height: 134px;
+}
+.android-large-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 37px;
+  color: var(--color-black);
+  font-family: var(--font-roboto-flex);
+}
