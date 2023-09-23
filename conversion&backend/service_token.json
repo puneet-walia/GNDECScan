@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "handw-399905",
+  "private_key_id": "b29ee306eb43c4009f267a550eed63629e31ad3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdTsF5Fnft1WXo\nYqZB5Idt/Mv/fMlM9dgnmG5rIpQSSfPgixGileKeC4XZS2zTKgZ4amo5tRK8QXK/\nWSVi++ZSlq8L1U3up7AdeAnBmtnMksWD/lnQmiSYeDSXAhxxbaOHfABHTk4x095D\nCCfRFdu0xp2Oei7SaEshRM8XLm6rddmH2s3P7n0ctL/xJduEu0wHG1XyWk0JHrD/\nKHNMJXZlaDVNME2nUu9RiVfUiM8HK5wl8JTctDipWrJC2kI1Dfg0bX6GhfPzSQJD\nPrDSpVRVChzEiZn572mKHgwkf1dzT2Sodw/zTQ3YAZ2Y/ucMj6pnD5144gHSszMj\n6SEBUjZLAgMBAAECggEAA9Axlx0uUbucjszlZC+FVkCMiWhIUO9HYB5X1DewXd52\nZPkPYmDpGhUEF50LyZ/5LC4YM8c/PwUEd72nebDK3TGok0wxFBnzMPkEnjGCGhgX\nZaMNdlBmQV6Yl8Mwq/yREZW17q89QgP1cqvd8I7rwS7CCal4km0oymj/7tCXVNyq\ntQ5xvIM4GxAoHZYV03EHVBJ/PI1bj8Xxpv5OPkOQNFJ3xHtm87Akk4mkCJwECYqy\nnBCkGo3UP1btKvVZxgQ1P38jU+LQ0X8ZCEjBUrzMC887zKXz/UPVxfvUqe3vO0PR\nmiD3nHdgPos6BosovzhXTrQY/s6h7RAbhDjvOUXKAQKBgQDc8Ma+36uUTRaSAbAX\nRTaWyTvliIe2TX72ASuKi+iSCXQx+F84lY4jQnHsIsS3m2/jkmkZwP85+MEeTxQs\nlJ5WS6jeELFxS9mimyOGzVREx/Z8nPcQDOMKZQpJ+MWBq2T39AO8NiTsF3+CWPSp\n0uEl5bTpSiKzb35XqNHWH8KGgQKBgQC2RQhvk5y6CNWjEqn2tTqQ9/cvQCcCMXG8\nj1ghfQT0RuV+71LyMdITVb5uqXxww7SbO6qwoSSXJ/pJ2ILTBCHCL2SrJTx+hYBe\nkxWkI+oE0WjFc3TJOCsku8EmVP04UEl3PcI4iya6a2dD5RKgGuO3ePahPKpY22me\nTSWP7HaOywKBgHL/A4MPqh+bbBb8t+m0xa//96QFxxVVCrMCcuY+4gM41ni33N/3\nv66Mg/0zL46dYcRiTT/xWyaSWfnrkQWPKUajRLaom6LrptBizT/5mVXfemTr0hBR\nlM6xPoS37h0K15fTMyqASAF2TZDLujS2JSfzgpE2XA9nBaycmvNHPpmBAoGABa0m\nsxrcwapuxNJa+rTwKv2d9BnCXT4e9aldLEXRdq4SjZ50bdiBW1rLQHUEzBo8MK1u\nBmwuUIrNL6mPgXTafEqvjujs9l+//LIF9YOs0ROYeLW8yFt4dH9oZ4I0FKHjd9Qz\njUFAJoQbxjCHIPdVaixZOfJCt9u1cVmjttS9aHsCgYAY7ryP+yQStazLCSx+NWtS\nbMLjLSblkAJAAX7E6ss816iCDyRpSdY/E4RlA/qP6WQzUhwwkPLLeMChtpfDQoFd\ndQNzjSkR5VwD/G4cEOIcR8KrqOmVPWGc+t1MpFR/8nN0IlTdoeccZ16LlTHnJ2Mm\nktbb7q96viRRE0K7XnUT7g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "puneet-walia@handw-399905.iam.gserviceaccount.com",
+  "client_id": "114761077444850855652",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/puneet-walia%40handw-399905.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
