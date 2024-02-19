@@ -2,7 +2,7 @@
 
 # Handwriting to Text Converter
 
-![Handwriting to Text Converter](handwriting.png)
+![link to project]((https://www.kapwing.com/w/WzYNRmATXd))
 
 ## Overview
 
