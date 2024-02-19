@@ -1,5 +1,5 @@
-# CIPHER-SQUAD
-A team of 6 members who loves to innovate
+# GNDECScan
+
 # Handwriting to Text Converter
 
 ![Handwriting to Text Converter](handwriting.png)
