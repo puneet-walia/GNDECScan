@@ -1,9 +1,7 @@
 # GNDECScan
 
 # Handwriting to Text Converter
-
-![link to project]((https://www.kapwing.com/w/WzYNRmATXd))
-
+[Link to project video](https://www.kapwing.com/65d3638e00b050d437d6dfcc/studio/editor/sharing)
 ## Overview
 
 The Handwriting to Text Converter is a Python-based project that allows you to scan handwritten documents and convert them into machine-readable text. This tool is designed to simplify the process of digitizing handwritten notes, documents, or any other handwritten content.
