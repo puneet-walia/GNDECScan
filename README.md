@@ -22,5 +22,5 @@ The Handwriting to Text Converter is a Python-based project that allows you to s
 
    ```bash
    git clone https://github.com/yourusername/handwriting-to-text.git
-   cd handwriting-to-texts
+   cd handwriting-to-text
 
